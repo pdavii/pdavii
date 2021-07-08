@@ -1,6 +1,4 @@
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fatecjales.edu.br/"FATEC JALES</a>.
