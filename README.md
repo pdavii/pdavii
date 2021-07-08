@@ -32,6 +32,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Paulo Davi Freitas da Costa](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-davi-freitas-da-costa-6b2a5818b/)](https://www.linkedin.com/in/paulo-davi-freitas-da-costa-6b2a5818b/)
+[![Linkedin: Paulo Davi Freitas da Costa](https://img.shields.io/badge/-Paulo-Davi-Freitas-da-Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-davi-freitas-da-costa-6b2a5818b/)](https://www.linkedin.com/in/paulo-davi-freitas-da-costa-6b2a5818b/)
 [![Gmail Badge](https://img.shields.io/badge/-p.davii.f@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:p.davii.f@gmail.com)](mailto:p.davii.f@gmail.com)
 
