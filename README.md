@@ -1,7 +1,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fatecjales.edu.br/"FATEC JALES</a>.
+- 🎓 &nbsp; Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fatecjales.edu.br/">FATEC JALES</a>.
 - 💼 &nbsp; Trabalhando como **PROFESSOR DE CURSOS PROFISSIONALIZANTES** na <a href="https://viacertacursos.com.br/unidade/jales/">VIA CERTA JALES</a>
 - 🌱 &nbsp; Aprendendo mais sobre **FULL STACK DEVELOPER - AUTOMAÇÃO EXPERT**.
 
