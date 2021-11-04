@@ -44,6 +44,8 @@
 
 <br/>
 
+https://github-readme-stats.vercel.app/api?username=pdavii
+
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
