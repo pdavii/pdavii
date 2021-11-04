@@ -29,6 +29,7 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/GitLab-333333?style=flat&logo=gitlab&logoColor=330F63)
  
 
 **Ferramentas de Desenvolvimento**
