@@ -35,6 +35,10 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  
+ **Sistemas Operacionais**
+ 
+ ![WINDOWS](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows&logoColor=0078D6)
+ ![UBUNTU](https://img.shields.io/badge/Ubuntu-333333?style=flat&logo=ubuntu&logoColor=E95420)
 
 <br/>
 
