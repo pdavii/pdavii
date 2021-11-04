@@ -20,6 +20,7 @@
   ![REACT](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)
   ![WORDPRESS](https://img.shields.io/badge/Wordpress-333333?style=flat&logo=wordpress&logoColor=21759B)
   <br/>
+  ![JSON](https://img.shields.io/badge/json-333333?style=flat&logo=json&logoColor=5E5C5C)
   ![MYSQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=FFF)
   ![POSTGRES](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=316192)
 
