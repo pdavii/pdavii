@@ -44,8 +44,12 @@
 
 <br/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pdavii)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/pdavii/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdavii&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
