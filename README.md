@@ -18,9 +18,9 @@
   ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=777BB4)
   ![REACT](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)
-  ![REDUX](https://img.shields.io/badge/Redux-333333?style=for-the-badge&logo=redux&logoColor=593D88)
-  ![WORDPRESS](https://img.shields.io/badge/Wordpress-333333?style=flat&logo=wordpress&logoColor=21759B)
+  ![REDUX](https://img.shields.io/badge/Redux-333333?style=flat&logo=redux&logoColor=593D88)
   <br/>
+  ![WORDPRESS](https://img.shields.io/badge/Wordpress-333333?style=flat&logo=wordpress&logoColor=21759B)
   ![JSON](https://img.shields.io/badge/json-333333?style=flat&logo=json&logoColor=5E5C5C)
   ![MYSQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=FFF)
   ![POSTGRES](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=316192)
