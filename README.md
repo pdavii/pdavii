@@ -34,6 +34,7 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![NotePad++](https://img.shields.io/badge/Notepad++-333333.svg?style=flat&logo=notepad%2B%2B&logoColor=90E59A)
  
  **Sistemas Operacionais**
  
