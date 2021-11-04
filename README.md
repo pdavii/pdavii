@@ -44,7 +44,8 @@
 
 <br/>
 
-https://github-readme-stats.vercel.app/api?username=pdavii
+[![pdavii's pdavii stats](https://github-readme-stats.vercel.app/api/wakatime?username=pdavii)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
