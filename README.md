@@ -18,7 +18,7 @@
   ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=777BB4)
   ![REACT](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)
-  ![MYSQL](https://img.shields.io/badge/MySQL-333333F?style=flat&logo=mysql&logoColor=000000)
+  ![MYSQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=000000)
 
 **DevOps**
 
