@@ -44,14 +44,6 @@
 
 <br/>
 
-<a href="https://github.com/pdavii/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdavii&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Paulo Davi Freitas da Costa](https://img.shields.io/badge/-PauloDavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-davi-freitas-da-costa-6b2a5818b/)](https://www.linkedin.com/in/paulo-davi-freitas-da-costa-6b2a5818b/)
