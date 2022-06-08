@@ -1,7 +1,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fatecjales.edu.br/">FATEC JALES</a>.
+- 🎓 &nbsp; Formado em **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fatecjales.edu.br/">FATEC JALES</a>.
 - 💼 &nbsp; Trabalhando como **FRONT-END DEVELOPER AT RACCOON MARKETING DIGITAL** 
 - 🌱 &nbsp; Aprendendo mais sobre **FULL STACK DEVELOPER - AUTOMAÇÃO EXPERT**.
 
@@ -9,28 +9,12 @@
 
 **Aplicações e Dados**
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SASS](https://img.shields.io/badge/Sass-333333?style=flat&logo=sass&logoColor=CC6699) 
-  ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=777BB4)
-  <br/>
-  ![REACT](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)
-  ![REDUX](https://img.shields.io/badge/Redux-333333?style=flat&logo=redux&logoColor=593D88)
-  ![WORDPRESS](https://img.shields.io/badge/Wordpress-333333?style=flat&logo=wordpress&logoColor=21759B)
-  ![JSON](https://img.shields.io/badge/json-333333?style=flat&logo=json&logoColor=5E5C5C)
-  ![MYSQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=FFF)
-  ![POSTGRES](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=316192)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px" height="50px"/>
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/GitLab-333333?style=flat&logo=gitlab&logoColor=330F63)
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" height="50px"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50px" height="50px"/>
+
 
 **Ferramentas de Desenvolvimento**
 
